@@ -1,5 +1,9 @@
 # Bits, Bytes, Building With Binary
 
+Original article: [Bits, Bytes, Building With Binary](https://medium.com/basecs/bits-bytes-building-with-binary-13cb4289aafa)
+
+## Notes
+
 Our modern counting system is known as base 10 or denary since there are 10 possible digits per place. We increment digits in one place until we can't any more then add a digit to the next place.
 
 In the binary number system there are only 2 possible digits per place (0, 1) but we count in the same way by incrementing the digits in one place until we cant anymore then add a digit to the next place.
