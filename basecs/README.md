@@ -13,3 +13,5 @@ I encourage you to read through the articles yourself, but feel free to check ou
 [Notes - Bits, Bytes, Building With Binary](bits-bites-building-with-binary.md)
 
 [Notes - Hexes and Other Magical Numbers](hexes-and-other-magical-numbers.md)
+
+[Notes - What’s a Linked List, Anyway? [Part 1]](whats-a-linked-list-anyway-part-1.md)
