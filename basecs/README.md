@@ -15,3 +15,5 @@ I encourage you to read through the articles yourself, but feel free to check ou
 [Notes - Hexes and Other Magical Numbers](hexes-and-other-magical-numbers.md)
 
 [Notes - What’s a Linked List, Anyway? [Part 1]](whats-a-linked-list-anyway-part-1.md)
+
+[Notes - What’s a Linked List, Anyway? [Part 2]](whats-a-linked-list-anyway-part-2.md)
