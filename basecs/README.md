@@ -17,3 +17,5 @@ I encourage you to read through the articles yourself, but feel free to check ou
 [Notes - What’s a Linked List, Anyway? [Part 1]](whats-a-linked-list-anyway-part-1.md)
 
 [Notes - What’s a Linked List, Anyway? [Part 2]](whats-a-linked-list-anyway-part-2.md)
+
+[Notes - Stacks and Overflows](stacks-and-overflows.md)
