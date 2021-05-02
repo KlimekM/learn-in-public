@@ -21,3 +21,5 @@ I encourage you to read through the articles yourself, but feel free to check ou
 [Notes - Stacks and Overflows](stacks-and-overflows.md)
 
 [Notes - To Queue Or Not To Queue](to-queue-or-not-to-queue.md)
+
+[Notes - How To Not Be Stumped By Trees](how-to-not-be-stumped-by-trees.md)
